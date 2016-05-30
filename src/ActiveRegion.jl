@@ -1,0 +1,5 @@
+module ActiveRegion
+
+# package code goes here
+
+end # module
